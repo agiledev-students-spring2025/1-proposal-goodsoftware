@@ -37,7 +37,7 @@ Flipped is designed for:
 - Encourages motivation and goal-setting by **rewarding achievements**.  
 - Data privacy is ensured, allowing users to manage their aspirations securely.
 
-  ### **Scope**  
+### **Scope**  
 
 This project is well-balanced in complexity, making it suitable for a team of **4–6 programmers** to complete within one semester. It involves front-end and back-end development, sensor integration, data management, and user interaction design.  
 

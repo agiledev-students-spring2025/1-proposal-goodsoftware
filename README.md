@@ -39,7 +39,7 @@ Flipped is designed for:
 
 ### **Scope**  
 
-This project is well-balanced in complexity, making it suitable for a team of **4–6 programmers** to complete within one semester. It involves front-end and back-end development, sensor integration, data management, and user interaction design.  
+This project is suitable for a team of 4–6 programmers to complete within one semester. 
 
 #### **1. Flip Function**  
 - Requires access to the **mobile device’s gyroscope sensor** to detect the flipping action.  
@@ -53,7 +53,7 @@ This project is well-balanced in complexity, making it suitable for a team of **
 - Allows users to **add, edit, and delete** tasks and events.  
 - Integrates **task reminders and notifications** to enhance productivity.  
 
-#### **3. Wish Function **  
+#### **3. Wish Function**  
 - Requires a **database to store and track user wishes**.  
 - Develops a UI where users can **submit, edit, and view** their wishes.  
 - Optionally implements **progress tracking** to encourage users to achieve their goals.  

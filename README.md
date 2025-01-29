@@ -1,4 +1,5 @@
-# **Project Title**  
+# Flipped
+### **Project Title**  
 **Flipped**  
 
 ### **Project Description**  
@@ -18,7 +19,7 @@ Flipped is designed for:
 - **Individuals struggling with excessive phone usage** who want to develop better self-discipline.  
 - **Engineering and technical teams** responsible for the system's development.  
 
-### **Main Features**  
+### **How?**  
 
 #### **1. Flip for Time Focus**  
 - Users **set a focus goal** and **flip their phone** to start a timer automatically.  
@@ -31,7 +32,29 @@ Flipped is designed for:
 - Integration with a **task manager** allows users to create, edit, and track tasks.  
 - Reminders and notifications help users **stay on top of deadlines**.  
 
-#### **3. Wish Feature (许愿功能)**  
+#### **3. Wish Feature**  
 - Users can **set personal goals or wishes** and track their progress.  
 - Encourages motivation and goal-setting by **rewarding achievements**.  
-- Data privacy is ensured, allowing users to manage their aspirations securely.  
+- Data privacy is ensured, allowing users to manage their aspirations securely.
+
+  ### **Scope**  
+
+This project is well-balanced in complexity, making it suitable for a team of **4–6 programmers** to complete within one semester. It involves front-end and back-end development, sensor integration, data management, and user interaction design.  
+
+#### **1. Flip Function**  
+- Requires access to the **mobile device’s gyroscope sensor** to detect the flipping action.  
+- Develops an **algorithm** to accurately distinguish flipping from other movements.  
+- Ensures **real-time responsiveness** and integrates it with the focus timer feature.  
+- Implements **a reward system** where users receive a Tarot card or an inspirational quote after a session.  
+
+#### **2. Calendar with To-Do List**  
+- Requires a **database structure** to store tasks, deadlines, and events.  
+- Implements a **user-friendly calendar interface** with views for daily, weekly, and monthly schedules.  
+- Allows users to **add, edit, and delete** tasks and events.  
+- Integrates **task reminders and notifications** to enhance productivity.  
+
+#### **3. Wish Function **  
+- Requires a **database to store and track user wishes**.  
+- Develops a UI where users can **submit, edit, and view** their wishes.  
+- Optionally implements **progress tracking** to encourage users to achieve their goals.  
+- Ensures **data security and privacy** for personal aspirations.  
